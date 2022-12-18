@@ -14,5 +14,7 @@ A Python script that generates an image file in .PNG format with a resolution sp
 
 # Example
 To generate an image with a resolution of 512x512 pixels:
+
     python generate_image.py 512 512
+
 This will create an image file named random_image.png with 512x512 pixels, each with a randomly generated color.
